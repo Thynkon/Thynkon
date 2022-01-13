@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thynkon
 - 👀 I’m interested in systems programming
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me thynkon@protonmail.com
+- ⛓️ Full-time (neo)vimmer. Please help me to exit it.
 
 <!---
 Thynkon/Thynkon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
