@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thynkon.
 - 👀 I’m interested in systems programming, cyber-security and distributed systems.
-- 🌱 I’m currently learning Elixir/Phoenix.
+- 🌱 I’m currently developping a packet sniffer for Elixir.
 - ⛓️ Full-time (neo)vimmer. I opened it a few years ago and still can't exit it.
 
 <!---
